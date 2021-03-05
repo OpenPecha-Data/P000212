@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000212
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཐེག་པ་མཆོག་གི་རྣལ་འབྱོར་པ་བྱ་བྲལ་ཀུན་དགའ་དཔལ་ལྡན་གྱི་རྣམ་ཐར་ངོ་མཚར་བདུད་རྩིའི་སྣང་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-05
   layers:
   - book_title
   - author
+  id: SHE-DKR-05
 web_metadata:
   title:
     en: Amazing Lights of Nectar:A Biography of Khenpo Kunzang Palden
